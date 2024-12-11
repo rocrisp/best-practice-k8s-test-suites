@@ -1,4 +1,5 @@
 Related links:
+
 [Red Hat Best Practices for Kubernetes,Repo](https://github.com/redhat-best-practices-for-k8s/guide)
 
 [Red Hat Best Practices for Kubernetes,Generated](https://redhat-best-practices-for-k8s.github.io/guide/#k8s-best-practices-foreword)
@@ -16,13 +17,13 @@ Workflow:
 4.  The catalog is [generated using makefile](https://github.com/redhat-best-practices-for-k8s/certsuite/blob/main/Makefile#L101)
 
 
-Other projects
+Other related projects
 1. [builds and publishes the certsuite-probe image](https://github.com/redhat-best-practices-for-k8s/certsuite-probe)
 2. [Offline Catalog Tool for Red Hat's certified containerized artifacts to do offline queries](https://github.com/redhat-best-practices-for-k8s/oct)
 Get the minimun requirements from pixies[ click here](https://github.com/redhat-best-practices-for-k8s/oct/blob/main/pkg/certdb/onlinecheck/onlinecheck.go#L42)
 3. create clusters
 
-Good to have:
+Good to haves:
 * Security check
 * Architecture diagram
 

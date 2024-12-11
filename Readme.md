@@ -1,7 +1,10 @@
 Related links:
 [Red Hat Best Practices for Kubernetes,Repo](https://github.com/redhat-best-practices-for-k8s/guide)
+
 [Red Hat Best Practices for Kubernetes,Generated](https://redhat-best-practices-for-k8s.github.io/guide/#k8s-best-practices-foreword)
+
 [Red Hat Best Practices Test Suites](https://redhat-best-practices-for-k8s.github.io/certsuite/)
+
 [Michae's presention deck](https://docs.google.com/presentation/d/1wDxmmKZ09RM8Oa6dCQkL902GiTvKRGhh-duY7MdJHkQ/edit?usp=sharing)
 
 
